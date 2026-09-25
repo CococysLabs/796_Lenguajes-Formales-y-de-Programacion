@@ -1,0 +1,22 @@
+# [796] Lenguajes Formales y de Programación - ciclo-1
+
+**Curso:** Lenguajes Formales y de Programación  
+**Ciclo:** ciclo-1
+
+## 📁 Contenido
+
+El material de este ciclo está organizado según la estructura original del profesor/catedrático.
+
+Explora las carpetas para encontrar:
+- Material de clase
+- Proyectos
+- Tareas y ejercicios
+- Recursos adicionales
+
+## 🤝 Contribuir
+
+Para contribuir con contenido de este ciclo, sigue las instrucciones en el [README principal del curso](../README.md).
+
+---
+
+**Ruta:** [Área de Computación](../../) → [796](..) → ciclo-1
